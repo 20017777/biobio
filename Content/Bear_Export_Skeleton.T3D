@@ -1,0 +1,5 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Bear_Export_Skeleton"
+   BoneTree(25)=()
+   SlotGroups(0)=(SlotNames=("DefaultSlot","Loop_Walk_Beer"))
+   PreviewSkeletalMesh="/Game/MyBlueprint2/enemy_bear/Enemy_Bear.Enemy_Bear"
+End Object
